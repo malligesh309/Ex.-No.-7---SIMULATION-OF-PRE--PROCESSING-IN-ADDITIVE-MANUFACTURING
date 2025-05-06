@@ -49,6 +49,8 @@
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/fb0fc18b-b253-4d1d-8f82-7fd441a0e739)
+
 
 ### Name:Malligesh M
 ### Register Number:212223230119
